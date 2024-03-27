@@ -6,7 +6,7 @@ Saya seorang **Mahasiswa Jurusan Teknik Informatika** di [Universitas Pasundan](
 
 Saya juga sedang mengikuti studi independen bersertifikat dengan learning path Cloud Computing di [Bangkit Academy](https://grow.google/intl/id_id/bangkit/).<br>
 
-Connect wit me![Linkedin](https://www.linkedin.com/in/putri-aulia-maulidina/) ku ya.
+Yuk Connect [Linkedin](https://www.linkedin.com/in/putri-aulia-maulidina/)
 
 ### Github Statistic
 <p align="left">
